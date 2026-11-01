@@ -1,5 +1,5 @@
 # sprint7-final-project
-Analisis de datos de dataset de ConnectaTel del año 2024, como estudio de bootcamps  de en TripleTen.
+Analisis de datos de dataset de ConnectaTel del año 2024, como estudio de bootcamps de en TripleTen.
 Proyecto de Análisis de Datos y Aprendizaje: ConnectaTel: segmentación de clientes y patrones de uso.
 Análisis exploratorio de los planes, usuarios y uso del servicio de ConnectaTel (operador de telecomunicaciones en Latinoamérica). El proyecto limpia los datos, segmenta a los clientes por edad y nivel de uso y traduce los hallazgos en recomendaciones para el negocio.
 Objetivo
