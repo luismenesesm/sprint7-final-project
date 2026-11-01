@@ -1,0 +1,10 @@
+requirements.txt
+
+Listado de librerías usadas
+
+-	Pandas
+-	Seaborn 
+-	Numpy
+-	Matplotlib.pyplot 
+
+Ejecutadas en jupyter.
